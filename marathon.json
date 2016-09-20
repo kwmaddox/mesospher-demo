@@ -2,7 +2,7 @@
   "id": "/kmaddox-nginx",
   "cpus": 1,
   "mem": 128,
-  "instances": 1,
+  "instances": 3,
   "container": {
     "docker": {
       "image": "kmaddoxtest12345/mesophere-demo:latest",
